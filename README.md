@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Engineer with extensive experience working on Data Analysis and have good skills in Machine Learning
+I am an Engineer with extensive experience working on Data Analysis projects and have good skills in Machine Learning
 <!--
 **mumuni1919/mumuni1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
