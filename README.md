@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdul-Mumuni Musah</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **Different Machine Learning Algorithms**
+- 🔭 I’m currently working on **Different Machine Learning Algorithms and Data Analytics**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **Data Science, Data Analzsis & Machine Learning projects**
 
 - 💬 Ask me about **Machine Learning**
 
