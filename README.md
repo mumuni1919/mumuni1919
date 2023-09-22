@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **Data Science, Data Analzsis & Machine Learning projects**
+- 👯 I’m looking to collaborate on **Data Science, Data Analysis & Machine Learning projects**
 
 - 💬 Ask me about **Machine Learning**
 
