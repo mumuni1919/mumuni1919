@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdul-Mumuni Musah</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
+<h3 align="center">A passionate Data Engineer with skills in Machine Learning </h3>
 
 - 🔭 I'm currently working on Data Engineering, Data Warehouse techniques, Cloud Computing 
 - 🔭 I’m working on **Different Machine Learning Algorithms and Data Analytics**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **Data Science, Data Analysis & Machine Learning projects**
+- 👯 I’m looking to collaborate on **Data Science, Data Engineering, Data Analysis & Machine Learning projects**
 
 - 💬 Ask me about **Machine Learning**
 
