@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul-Mumuni Musah</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **Different Machine Learning Algorithms and Data Analytics**
+- 🔭 I'm currently working on Data Engineering, Data Warehouse techniques, Cloud Computing 
+- 🔭 I’m working on **Different Machine Learning Algorithms and Data Analytics**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
