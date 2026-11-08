@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on Data Engineering, Data Warehouse techniques, Cloud Computing 
 - 🔭 I’m working on **Different Machine Learning Algorithms and Data Analytics**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning ** AI/LLM Agents using RAG, Python, streamlit, Database **
 
 - 👯 I’m looking to collaborate on **Data Science, Data Engineering, Data Analysis & Machine Learning projects**
 
