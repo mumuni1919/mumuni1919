@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning ** AI/LLM Agents using RAG, Python, streamlit, Database **
 
-- 👯 I’m looking to collaborate on **Data Science, Data Engineering, Data Analysis & Machine Learning projects**
+- 👯 I’m looking to collaborate on **Data Science, Data Engineering, Data Analysis, Machine Learning  & AI/LLM projects **
 
 - 💬 Ask me about **Machine Learning**
 
